@@ -16,4 +16,4 @@ pip install wordcloud
 pip list
 
 #実行
-pyhon3 examples/MyExamples_JD1.text
+pyhon3 examples/MyExamples_JD1.py
