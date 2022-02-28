@@ -1,0 +1,19 @@
+#この説明では、求人の職務概要に出てくる頻出語を大きく表示させてみます。
+
+
+#準備
+
+#バージョンチェック
+Python -V
+
+#pipのパッケージチェック
+pip list
+
+#Word_Cloudをダウンロード
+pip install wordcloud
+
+#確認
+pip list
+
+#実行
+pyhon3 MyExamples/MyExamples_JD1.text
